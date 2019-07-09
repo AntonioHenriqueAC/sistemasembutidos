@@ -1,7 +1,7 @@
 // Aluno: Antônio Henrique Alves Cardoso
 // Matrícula: 14.2.1687
 
-// Pratica número 4
+// Pratica número 5
 
 #include "project.h"
 
@@ -35,7 +35,7 @@ case 4:
    break;
 }
 Button_ClearInterrupt();
-}
+
 
 int main(void)
 {
